@@ -1,5 +1,6 @@
 * {
-  margin: 0;
+  margin: 0 auto;
+  background-color: #111;
 }
 .App {
   background-color: #111;
