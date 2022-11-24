@@ -21,6 +21,7 @@ function Nav() {
                 alt="Netflix"
             />
             <img
+            alt="Profile logo"
                 className="profile_logo"
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSw2Q6J1xM3k3xAbRpWhsI2KmzdgF_X4uU3lF_kBXqI6BLWrU0kOu0f1uNkanAH2E_iE8&usqp=CAU"/>
                 
